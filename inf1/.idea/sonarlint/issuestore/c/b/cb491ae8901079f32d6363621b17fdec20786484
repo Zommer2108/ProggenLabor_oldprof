@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üòÿ“
+M
+java:S2589 "7Remove this expression which always evaluates to "true"(É˜²æ
+o	java:S116"URename this field "ZIFFER_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÖÌÞýÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ÇÖÌÞýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯ãè­ûÿÿÿÿ
+N
+java:S2130F"8Use "Long.parseLong" for this string-to-long conversion.(æÈ¦
+l
+java:S3457H"Q%n should be used in place of \n to produce the platform-specific line separator.(Á©Âèüÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Á©Âèüÿÿÿÿ

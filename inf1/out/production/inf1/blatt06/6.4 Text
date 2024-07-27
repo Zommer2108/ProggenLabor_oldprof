@@ -1,0 +1,14 @@
+1 & 2. erlaubte Werte sind 0 bis 9, wobei 0 für einen unbekannten Wert verwendet wird und zu "lösen" gilt.
+
+3. Damit die drei Testfelder gespeichert werden können
+
+4.  In der ersten Dimension steht das Feld.
+    In der zweiten Dimension steht die Zeile.
+    In der dritten Dimension steht die Spalte.
+
+5. Zwei Dimensionen.
+
+6. Ja klar, da wir die letzte Stelle zuweisen, da die Zeilen 8 und die Spalte 8 erreicht wird.
+
+7. Die For-Each Schleife durchgeht jedes Feld und testet deren Werte. Sprich es wird für die Anzahl Spielfelder
+    die einzelnen Felder angeschaut. Sprich bei der ersten Iteration das erste Feld, bei der zweiten, das Zweite usw.

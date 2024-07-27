@@ -1,0 +1,27 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(‡Œé—
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üòÿ“
+\
+java:S1126<"AReplace this if-then-else statement by a single return statement.(€ë„úÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(¶á“Ñ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(öò’ï
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(Ã€œÉ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(Ù÷ÔÙ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(Š”£þÿÿÿÿ
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(ÎŠÝp
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(°Â´¥
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(óõ¼Ùùÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(€‹ƒ§8ð­•õ’0
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(ªù”I
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(—±ç©
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ÌÄ¸û
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ê¸Æ…’0
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(¯Ò·£ùÿÿÿÿ8ñ­•õ’0
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(èàÜÑùÿÿÿÿ8ñ­•õ’0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á¬õÌÿÿÿÿÿ8ñ­•õ’0

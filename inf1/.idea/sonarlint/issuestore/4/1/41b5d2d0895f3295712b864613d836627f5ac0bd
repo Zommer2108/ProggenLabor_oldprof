@@ -1,0 +1,21 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İğ‡“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ£—é
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(®ÃÔ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ñÂû¦øÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Œ‚Ìúÿÿÿÿ
+[
+java:S11935"@Replace the usage of the "instanceof" operator by a catch block.(¾šÛùıÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(™Ùé”
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(î“œø
+?
+java:S1197D"*Move the array designators [] to the type.(Ú¢¥6
+<	java:S131L""Add a default case to this switch.(¾´ä˜ıÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Šª—ıÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(âÿåºùÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Šª—ıÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+G
+java:S1197d",Move the array designators [][] to the type.(ÄÚ®Úøÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(Šª—ıÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ

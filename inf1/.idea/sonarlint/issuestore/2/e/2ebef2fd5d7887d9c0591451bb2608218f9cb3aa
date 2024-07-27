@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Äø°
+P
+java:S1161":Add the "@Override" annotation above this method signature(¶øÂÁ
+D
+java:S2140Z")Use "java.util.Random.nextInt()" instead.(æÓ÷¯üÿÿÿÿ
+?
+java:S2140[")Use "java.util.Random.nextInt()" instead.(áƒË¹
+?
+java:S2140\")Use "java.util.Random.nextInt()" instead.(é€Ûƒ

@@ -1,0 +1,58 @@
+
+I
+java:S1121".Extract the assignment out of this expression.(§ûÏâýÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(žŸœÎøÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(žŸœÎøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô×«æ
+K
+java:S1854"5Remove this useless assignment to local variable "a".(¹Íÿ‘
+P
+java:S1854"5Remove this useless assignment to local variable "a".(žŸœÎøÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "b".(žŸœÎøÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "a".(‰¸¥ìüÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "a".(§ûÏâýÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "b".(§ûÏâýÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "c".(§ûÏâýÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "a".(Ò“’¯
+K
+java:S1854"5Remove this useless assignment to local variable "b".(Ò“’¯
+K
+java:S1854"5Remove this useless assignment to local variable "c".(Ò“’¯
+K
+java:S1854"5Remove this useless assignment to local variable "c".(ò‹÷Ó
+P
+java:S1854"5Remove this useless assignment to local variable "b".(ˆ˜ý‡úÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "a".(§°»àùÿÿÿÿ
+Y
+java:S1659	">Declare "b" and all following declarations on a separate line.(ë³ ¹øÿÿÿÿ
+6
+java:S1659" Declare "N1" on a separate line.(ðÅ‰§
+A
+java:S1481	"&Remove this unused "c" local variable.(ë³ ¹øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÑð
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÿÑð
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÿÑð
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÿÑð
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ÿÑð
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ìÂÏ¼
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Ù³ìéýÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(íƒ©ßýÿÿÿÿ
+?
+java:S2140j")Use "java.util.Random.nextInt()" instead.(¥¿ƒü
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(€òÔ¥ÿÿÿÿÿ

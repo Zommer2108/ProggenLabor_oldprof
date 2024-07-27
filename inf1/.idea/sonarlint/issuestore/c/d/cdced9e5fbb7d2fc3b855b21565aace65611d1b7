@@ -1,0 +1,32 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ö¬üÿÿÿÿ
+`
+java:S2583¿"DChange this condition so that it does not always evaluate to "false"(ïƒğşùÿÿÿÿ
+Z
+java:S2583Ã"DChange this condition so that it does not always evaluate to "false"(ñ©äO
+i	java:S116"URename this field "BLOCK_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¾¥
+m	java:S116"SRename this field "ROW_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëë×·úÿÿÿÿ
+6
+java:S1170"!Make this final field static too.(œ¾¥
+<
+java:S1170"!Make this final field static too.(Ëë×·úÿÿÿÿ
+W
+java:S1126v"AReplace this if-then-else statement by a single return statement.(†á­®
+M
+java:S1172„"6Remove these unused method parameters "zeile", "wert".(Ÿ™Ù
+I
+java:S1135…"2Complete the task associated to this TODO comment.(…ïœ†
+M
+java:S1172‘"7Remove these unused method parameters "spalte", "wert".(ıû¬
+I
+java:S1135’"2Complete the task associated to this TODO comment.(…ïœ†
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÁÁûÔûÿÿÿÿ
+m
+java:S3457¼"Q%n should be used in place of \n to produce the platform-specific line separator.(¼ ¡·ùÿÿÿÿ
+h
+java:S3457À"Q%n should be used in place of \n to produce the platform-specific line separator.(ÃşÖ
+m
+java:S3457Ä"Q%n should be used in place of \n to produce the platform-specific line separator.(Í‡ÍÁùÿÿÿÿ
+h
+java:S3457È"Q%n should be used in place of \n to produce the platform-specific line separator.(È°“ç

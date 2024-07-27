@@ -1,0 +1,35 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¥¬ü
+i	java:S116"URename this field "BLOCK_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¾¥
+m	java:S116"SRename this field "ROW_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëë×·úÿÿÿÿ
+6
+java:S1170"!Make this final field static too.(œ¾¥
+<
+java:S1170"!Make this final field static too.(Ëë×·úÿÿÿÿ
+B
+java:S1659"'Declare "nrOfTests" on a separate line.(á”Ùµýÿÿÿÿ
+w
+java:S1450"\Remove the "nrOfSolutions" field and declare it as a local variable in the relevant methods.(á”Ùµýÿÿÿÿ
+s
+java:S1450"XRemove the "nrOfTests" field and declare it as a local variable in the relevant methods.(á”Ùµýÿÿÿÿ
+@
+java:S1659o"%Declare "iSpalte" on a separate line.(”½„ùÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(§ÇÀûÿÿÿÿ
+N	java:S106¯"9Replace this use of System.out or System.err by a logger.(ÂÏõr
+N	java:S106´"9Replace this use of System.out or System.err by a logger.(†ÂÆ+
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(å±çÓÿÿÿÿÿ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(À½àøÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(§ÇÀûÿÿÿÿ
+N
+java:S1135Î"2Complete the task associated to this TODO comment.(Ÿ¶§šùÿÿÿÿ
+L
+java:S1068"1Remove this unused "nrOfSolutions" private field.(á”Ùµýÿÿÿÿ
+H
+java:S1068"-Remove this unused "nrOfTests" private field.(á”Ùµýÿÿÿÿ
+C
+java:S1144n".Remove this unused private "isBlockOk" method.(ÆžéB
+E
+java:S1144…".Remove this unused private "isZeileOk" method.(Ÿ™Ù
+E
+java:S1144–"/Remove this unused private "isSpalteOk" method.(ýû¬

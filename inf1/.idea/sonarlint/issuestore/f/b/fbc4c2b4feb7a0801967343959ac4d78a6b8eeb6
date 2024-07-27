@@ -1,0 +1,10 @@
+
+P
+java:S1143"5Remove this return statement from this finally block.(áÿèˆıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İğ‡“
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ò÷Öûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÍúß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ¨°üÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(µâÁ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Õœ¼Œ

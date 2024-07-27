@@ -1,0 +1,56 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ö¬üÿÿÿÿ
+`
+java:S2583»"DChange this condition so that it does not always evaluate to "false"(ääÁÆÿÿÿÿÿ
+`
+java:S2583³"DChange this condition so that it does not always evaluate to "false"(ïƒğşùÿÿÿÿ
+[
+java:S2583¯"DChange this condition so that it does not always evaluate to "false"(¤×äû
+Z
+java:S2583·"DChange this condition so that it does not always evaluate to "false"(ñ©äO
+i	java:S116"URename this field "BLOCK_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¾¥
+m	java:S116"SRename this field "ROW_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëë×·úÿÿÿÿ
+6
+java:S1170"!Make this final field static too.(œ¾¥
+<
+java:S1170"!Make this final field static too.(Ëë×·úÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(İ¯´·şÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(¸É™
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(´Œ‹
+F
+java:S1172u"+Remove this unused method parameter "wert".(¦¯Š¤ùÿÿÿÿ
+M
+java:S1135v"2Complete the task associated to this TODO comment.(¼®‹ëûÿÿÿÿ
+M
+java:S1172"6Remove these unused method parameters "zeile", "wert".(Ÿ™Ù
+I
+java:S1135‚"2Complete the task associated to this TODO comment.(…ïœ†
+M
+java:S1172"7Remove these unused method parameters "spalte", "wert".(ıû¬
+I
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†
+V
+java:S1172›"@Remove these unused method parameters "zeile", "spalte", "wert".(ÆéB
+I
+java:S1135œ"2Complete the task associated to this TODO comment.(…ïœ†
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÁÁûÔûÿÿÿÿ
+m
+java:S3457°"Q%n should be used in place of \n to produce the platform-specific line separator.(¼ ¡·ùÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(¼ ¡·ùÿÿÿÿ
+h
+java:S3457´"Q%n should be used in place of \n to produce the platform-specific line separator.(ÃşÖ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(ÃşÖ
+m
+java:S3457¸"Q%n should be used in place of \n to produce the platform-specific line separator.(Í‡ÍÁùÿÿÿÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(Í‡ÍÁùÿÿÿÿ
+h
+java:S3457¼"Q%n should be used in place of \n to produce the platform-specific line separator.(È°“ç
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(È°“ç
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(§ÇÀûÿÿÿÿ
+N	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ÂÏõr
+N	java:S106Û"9Replace this use of System.out or System.err by a logger.(†ÂÆ+
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(å±çÓÿÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(À½àøÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(§ÇÀûÿÿÿÿ

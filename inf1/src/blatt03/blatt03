@@ -1,0 +1,23 @@
+Aufgabe 3.2: Objekte und Klassen
+
+Aufgabe 3.3: Weil der Java Compiler den Programmcode in Java Bytecode umschreibt
+(.class files), dieser wird dann von der Java Virtual Machines ausgeführt.
+Die Virtual Machines sind für das jeweilige Betriebssystem ausgelegt (Java VM für OSX, Linux und Windows).
+
+Aufgabe 3.4: Android ist ein Betriebssystem, das auf einem Android-Smartphone läuft.
+Java ist eine Programmiersprache auf die Android Entwicklung basiert, aber keine Main Methode und Android code wird in
+"Davlik opcode" kompiliert.
+
+Aufgabe 3.9:
+1. Die Paint-Methode dient dazu einen Strich zu zeichnen.
+2. Der Parameter dient dazu der Methode Paint zu übermitteln auf welcher Grafik gezeichnet werden soll.
+
+3. als PDF im ZIP-File
+
+4. In der meineDiagnolan Methode, denn diese wird aufgerufen und soll nach der Initialisierung der Grafik,
+die gewünschte Figur zeichnen.
+
+5.
+In Java: die Kommentare werden vom Compiler ignoriert.
+In Eclipse: dienen als Notiz für den Entwickler bzw. deren Kolleg*innen
+um den Teil der als TO DO markiert wird fertig zu stellen.
